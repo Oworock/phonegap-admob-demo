@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget 
-id="com.rjfun.admobdemo" 
+id="com.oworock.admobdemo" 
 version="1.0.20141225" 
 xmlns="http://www.w3.org/ns/widgets"
 xmlns:gap="http://phonegap.com/ns/1.0"
 >
-    <name>JumpRope</name>
+    <name>Oworock Ads</name>
     
     <description>DemoApp for AdMob</description>
-    <author email="rjfun.mobile@gmail.com" href="http://rjfun.github.io/">RjFun</author>
+    <author email="ask@oworock.com" href="http://oworock.github.io/">Oworock</author>
     <content src="index.html" />
     <access origin="*" />
 
